@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% assign posts = site.posts | sort: 'date' %}
+  {% assign posts = site.posts | sort: 'date'  | reverse %}
   {% for post in posts %}
     <article class="post">
       <h2 class="item-date">{{ post.date | date: '%m/%Y' }}{% if post.enddate %} - {{ post.enddate | date: '%m/%Y' }}{% endif %}</h2>
