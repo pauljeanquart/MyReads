@@ -1,6 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Learn The Bible In 24 Hours
+author: Chuck Missler
+thumb50: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388908071i/205575._SX50_.jpg
+goodreads: https://www.goodreads.com/book/show/205575.Learn_The_Bible_In_24_Hours
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
